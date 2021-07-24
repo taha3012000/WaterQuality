@@ -1,2 +1,2 @@
 # WaterQuality
-Machine learning model determine whether water is drinkable or not
+Machine learning model determine whether water is drinkable or not.
